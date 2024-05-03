@@ -6,8 +6,6 @@
 # Package: Create Potion.js Application
 This is a package created to help you create your potion app.
 The stack is using:
-<img src="">
-
 
 <b>
 - Node.js <br>
